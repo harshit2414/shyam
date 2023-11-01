@@ -1,4 +1,5 @@
 # shyam
 this is my first git repository
 <br>
-Author - Harshit garg(shyampremi)
+Author - Harshit garg(shyampremi) iit tirupati tirupati
+
